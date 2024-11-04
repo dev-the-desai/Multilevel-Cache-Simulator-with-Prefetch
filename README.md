@@ -3,4 +3,4 @@ A C++ simulator for L1/L2 cache levels with a configurable stream-buffer prefetc
 
 Configurations supported:
 
-<img width="512" alt="config supported" src="https://github.com/user-attachments/assets/1586344b-c055-4326-a633-3b3ee9589d26">
+<img width="800" alt="config supported" src="https://github.com/user-attachments/assets/1586344b-c055-4326-a633-3b3ee9589d26">
