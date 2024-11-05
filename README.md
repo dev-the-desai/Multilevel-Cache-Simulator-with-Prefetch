@@ -1,6 +1,6 @@
 # Multilevel-Cache-Simulator-with-Prefetch
 
-A flexible cache and memory hierarchy simulator that compares the performance, area, and energy of different memory hierarchy configurations using SPEC benchmarks and microbenchmarks.
+A C++ simulator for L1/L2 cache levels with a configurable stream-buffer prefetch unit, implementing the WBWA policy.
 
 ## Project Overview
 
