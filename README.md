@@ -28,17 +28,17 @@ This project implements a configurable cache simulator that can model different 
 
 ## Technical Details
 
-### Configurations supported
-<div align="center">
-<img width="800" alt="config supported" src="https://github.com/user-attachments/assets/1586344b-c055-4326-a633-3b3ee9589d26">
-</div>
-
 ### Cache Parameters
 * `SIZE`: Total bytes of data storage
 * `ASSOC`: Cache associativity
 * `BLOCKSIZE`: Number of bytes per block
 * `PREF_N`: Number of stream buffers
 * `PREF_M`: Blocks per stream buffer
+
+### Configurations supported
+<div align="center">
+<img width="800" alt="config supported" src="https://github.com/user-attachments/assets/1586344b-c055-4326-a633-3b3ee9589d26">
+</div>
 
 ### Simulator Usage
 
