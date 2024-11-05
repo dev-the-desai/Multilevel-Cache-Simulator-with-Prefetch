@@ -28,6 +28,11 @@ This project implements a configurable cache simulator that can model different 
 
 ## Technical Details
 
+### Configurations supported
+<div align="center">
+<img width="800" alt="config supported" src="https://github.com/user-attachments/assets/1586344b-c055-4326-a633-3b3ee9589d26">
+</div>
+
 ### Cache Parameters
 * `SIZE`: Total bytes of data storage
 * `ASSOC`: Cache associativity
@@ -89,40 +94,4 @@ make
 2. Run simulator with desired configuration
 3. Analyze output metrics and cache contents
 
-## Documentation
-Detailed documentation includes:
-* Cache configuration details
-* Stream buffer operation
-* Performance metric definitions
-* Memory hierarchy diagrams
 
-## Academic Integrity
-* Original implementation following project specifications
-* No code sharing or reuse from external sources
-* Proper citation of any referenced materials
-
-This project demonstrates understanding of:
-* Cache architecture and design
-* Memory hierarchy optimization
-* Prefetching mechanisms
-* Performance analysis and metrics
-* System simulation techniques
-
-
-
-
-
-
-
-
-
-
-
-
-# Multilevel-Cache-Simulator-with-Prefetch
-A C++ simulator for L1/L2 cache levels with a configurable stream-buffer prefetch unit, implementing the WBWA policy. Simulates cache performance with varying size, associativity, and block size using SPEC 2006/2007 benchmarks. Analyzes cache configurations to optimize microprocessor architecture performance.
-
-Configurations supported:
-<div align="center">
-<img width="800" alt="config supported" src="https://github.com/user-attachments/assets/1586344b-c055-4326-a633-3b3ee9589d26">
-</div>
