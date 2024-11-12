@@ -81,7 +81,6 @@ Where:
 * C/C++ compiler
 * Make build system
 * Input trace files
-* Understanding of cache architecture and memory hierarchy
 
 ## Build Instructions
 ```bash
