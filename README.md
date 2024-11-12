@@ -40,7 +40,7 @@ This project implements a configurable cache simulator that can model different 
 <img width="800" alt="config supported" src="https://github.com/user-attachments/assets/1586344b-c055-4326-a633-3b3ee9589d26">
 </div>
 
-### Simulator Usage
+## Simulator Usage
 
 ```bash
 ./sim <BLOCKSIZE> <L1_SIZE> <L1_ASSOC> <L2_SIZE> <L2_ASSOC> <PREF_N> <PREF_M> <trace_file>
